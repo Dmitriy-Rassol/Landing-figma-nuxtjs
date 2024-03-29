@@ -1,4 +1,8 @@
-# nuxt
+# Лендинг на nuxt
+
+![image](https://github.com/Dmitriy-Rassol/Landing-figma-nuxtjs/assets/52157280/cecf9dce-f87a-44eb-acf2-40781b7c9fad)
+![image](https://github.com/Dmitriy-Rassol/Landing-figma-nuxtjs/assets/52157280/23a23346-afda-4a36-bac8-e3eb1255d526)
+
 
 ## Build Setup
 
